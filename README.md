@@ -4,15 +4,15 @@
 Sample python code and API to index the vidoe files and extract the insights and store in the blob storage
 
 
-Official Applied AI services| Video Indexer API page
+## Official Applied AI services| Video Indexer API page
 This folder contains the basic ways to address Video Indexer's API in order to allow full engagment with the product: Get Account, Get Access token through ARM API, upload a video, polling on status/waiting, and indexing the video. It is highly recommend to first read the more detailed documentation which can be found here.
 
 For more API abilities, please visit our API documentation
 
-Contents
+## Contents
 The sample code demonstrates important aspect of uploading and indexing a video for ARM-based accounts, availble from December 2021. Following the code will give you a good idea of how to use our API for basic functionalities. Make sure to read the inline comments and notice our best practices advices.
 
-Prerequisites
+## Prerequisites
 Instructions:
 
 The main program to run the API samples is provided as a Jupyter notebook - video_indexer_api_samples.ipynb
